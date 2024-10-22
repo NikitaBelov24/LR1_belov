@@ -70,7 +70,7 @@ namespace LR1_belov
             Close();
         }
 
-        private void buttonBack_Click(object sender, EventArgs e)
+        public void buttonBack_Click(object sender, EventArgs e)
         {
             Close();
         }
